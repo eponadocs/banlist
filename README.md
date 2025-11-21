@@ -1,8 +1,19 @@
+# Table of Contents
+1. [Epona Banned List](#epona-banned-list)
+2. [Players-Toons whose bans are lifted](#players-toons-whose-bans-are-lifted)
+3. [Players-Toons banned for scamming/Drop stealing/Botting](#players-toons-banned-for-scammingdrop-stealingbotting)
+4. [Players-Toons banned for irl $ interactions (buying/selling Gold/accs/sharing toons)](players-toons-banned-for-irl--interactions-buyingselling-goldaccssharing-toons)
+5. [Other](#other)
+6. [JOINED/HELPED DOM CLANS](#joinedhelped-dom-clans)
+7. [Players-Toons banned for Leeching](#players-toons-banned-for-leeching)
+8. [Blacklisted Clans](#blacklisted-clans)
+9. [Blanket Dom Attempt Banned Players  ](#blanket-dom-attempt-banned-players)
+
 # Epona Banned List
 
 All permanent bans can only be lifted by community vote 1 year after the day they were banned. Proof of innocence is the exception to this rule.
 
-## Players/Toons whose bans are lifted:
+## Players Toons whose bans are lifted:
 
 ### Adonix
 *   Reason: Dom Attempt
@@ -309,7 +320,7 @@ All permanent bans can only be lifted by community vote 1 year after the day the
 *   Date: temp banned from 2/26/2025 to 3/12/2025.
 *   Notes:
 
-## Players/Toons banned for scamming/Drop stealing/Botting:
+## Players-Toons banned for scamming/Drop stealing/Botting:
 
 ### AA7
 *   Reason: Drop steal / buying an acc with $
@@ -1101,7 +1112,7 @@ All permanent bans can only be lifted by community vote 1 year after the day the
 *   Date: Nov 11, 2025
 *   Notes:
 
-## Players/Toons banned for irl $ interactions (buying/selling Gold/accs/sharing toons):
+## Players-Toons banned for irl $ interactions (buying/selling Gold/accs/sharing toons):
 
 ### AA7
 *   Reason: Drop steal / buying an acc with $
@@ -2066,7 +2077,7 @@ All permanent bans can only be lifted by community vote 1 year after the day the
 *   Date: August 10, 2025
 *   Notes:
 
-## Players/Toons banned for Leeching
+## Players-Toons banned for Leeching
 
 ### Number One
 *   Reason: leeching
@@ -2100,7 +2111,7 @@ All permanent bans can only be lifted by community vote 1 year after the day the
 - EPONA IS PYRAMID  
 - Unite2Fight  
 
-## This list contains people/Players/Toons who are/were permanently/temporarily community banned from the Server Epona. Reference to the official Epona Discord server for more info:
+## This list contains people/Players-Toons who are/were permanently/temporarily community banned from the Server Epona. Reference to the official Epona Discord server for more info:
 
 Official Epona Discord: 
 
